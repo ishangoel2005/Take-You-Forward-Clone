@@ -1,0 +1,28 @@
+.faq-section {
+    background-color: #121212;
+    padding: 40px;
+    text-align: center;
+}
+.faq-section h2 {
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.faq-item {
+    list-style-type: none;
+    color: #fff;
+    padding: 15px;
+    border-bottom: 1px solid #333;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.faq-item:hover {
+    background-color: #333;
+} 
+.faq-icon {
+    font-size: 1.5rem;
+    color: #ff0033;
+    cursor: pointer;
+}

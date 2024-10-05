@@ -1,0 +1,39 @@
+.instructor-section {
+    background-color: #121212;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
+.instructor-section h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+.instructor-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.instructor-image {
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    margin-right: 30px;
+    background-image: url(https://takeuforward.org/static/media/img.e05e06671578591d1613.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.instructor-details {
+    text-align: left;
+}
+.instructor-details h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+.instructor-details ul {
+    list-style-type: none;
+    padding: 0;
+}
+.instructor-details li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
