@@ -7,7 +7,7 @@ import Services from './Components/Services/Services';
 import Community from './Components/Community/Community';
 import Testimonials from './Components/Testimonials/Testimonials';
 import Instructor from './Components/Instructor/Instructor';
-import FAQ from './Components/FAQ/FAQ.JSX';
+import FAQ from './Components/FAQ/FAQ';
 import Links from './Components/Links/Links';
 
 function App() {
